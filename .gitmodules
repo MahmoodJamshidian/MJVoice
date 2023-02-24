@@ -1,0 +1,3 @@
+[submodule "py-ytdl"]
+	path = py_ytdl
+	url = git@github.com:MahmoodJamshidian/py-ytdl.git
